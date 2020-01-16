@@ -1,0 +1,34 @@
+---
+title: Effects of Micronized Nano-Copper Azole on Marine Benthic Communities
+author: ''
+date: '2017-10-26'
+slug: Effects-of-Micro
+categories: []
+tags: []
+authors: [Kay T. Ho, Lisa Portis, Anthony A. Chariton, Marguerite Pelletier, Mark Cantwell, David Katz, Michaela Cashman, Ashley Parks, Jeffrey G. Baguley, Nathan Conrad-Forrest, Warren Boothman, Todd Luxton, Stuart L. Simpson, Sandra Fogg, and Robert M. Burgess
+
+]
+doi: '10.1002/etc.3954'
+publishDate: '2017-10-26'
+publication_types:
+  - '0'
+publication: 'Environmental Toxicology and Chemistry'
+publication_short: ''
+abstract: ''
+summary: ''
+featured: true
+url_pdf: ~https://setac.onlinelibrary.wiley.com/doi/pdf/10.1002/etc.3954
+url_code: ~
+url_dataset: ~
+url_poster: ~
+url_project: ~
+url_slides: ~
+url_source: ~
+url_video: ~
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: ''
+---

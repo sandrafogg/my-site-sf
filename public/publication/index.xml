@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | The Works of Sandra Fogg</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Cellular Responses to in-vitro Exposures to β-blocking Pharmaceuticals in Hard Clams and Eastern Oysters</title>
+      <link>/publication/bblockers/cellular-responses-to-in-vitro-exposures-to-%CE%B2-blocking-pharmaceuticals-in-hard-clams-and-eastern-oysters/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bblockers/cellular-responses-to-in-vitro-exposures-to-%CE%B2-blocking-pharmaceuticals-in-hard-clams-and-eastern-oysters/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of Micronized Nano-Copper Azole on Marine Benthic Communities</title>
+      <link>/publication/effects-of-micro/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/effects-of-micro/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
