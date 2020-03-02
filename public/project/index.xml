@@ -22,9 +22,18 @@
     
     <item>
       <title>Snowshoe Hares LTER</title>
-      <link>/project/internal-project/</link>
+      <link>/project/internal-project-1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>/project/internal-project-1/</guid>
+      <description>&lt;p&gt;See PDF for Analysis and Results&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>World Climate PCA</title>
+      <link>/project/internal-project-2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project-2/</guid>
       <description>&lt;p&gt;See PDF for Analysis and Results&lt;/p&gt;
 </description>
     </item>
