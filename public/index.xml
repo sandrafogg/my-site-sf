@@ -532,7 +532,7 @@ Three
     </item>
     
     <item>
-      <title>External Project</title>
+      <title>Maricultura Planning Tool</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/external-project/</guid>
@@ -544,6 +544,15 @@ Three
       <link>/project/internal-project-1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/internal-project-1/</guid>
+      <description>&lt;p&gt;See PDF for Analysis and Results&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Steelhead Trout Passage</title>
+      <link>/project/internal-project-3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project-3/</guid>
       <description>&lt;p&gt;See PDF for Analysis and Results&lt;/p&gt;
 </description>
     </item>

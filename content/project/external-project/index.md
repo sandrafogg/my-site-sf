@@ -1,11 +1,11 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+external_link: https://maricultura-gp.shinyapps.io/maricultura-app/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: An interactive web-based tool to identify the most suitable, productive, and profitable sites for offshore marine aquaculture development in Brazil.
 tags:
 - Demo
-title: External Project
+title: Maricultura Planning Tool
 ---
