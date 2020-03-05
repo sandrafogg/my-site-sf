@@ -16,6 +16,7 @@ url_pdf: "https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS
 #url_video: ""
 
 ---
+This project exercised skills in data wrangling and visualization. The original data frame required name changes, cleaning of columns, and omission of incomplete or inadequate data. 
 
 See PDF for Analysis and Results
 

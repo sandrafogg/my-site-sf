@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Breathe slow gratitude, instant change your attitude!
 education:
   courses:
   - course: Master of Environmental Science and Management

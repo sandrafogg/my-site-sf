@@ -16,6 +16,7 @@ url_pdf: "https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS
 #url_video: ""
 
 ---
+I learned how to perform principle components analysis for this task.  Data first required wrangling and cleaning, and then I had to choose which variables of the provided data set that I wanted to perform PCA with. It was helpful to visualize the relationship between variables and where covariance might occur within a model. 
 
 See PDF for Analysis and Results
 
